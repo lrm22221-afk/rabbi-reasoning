@@ -5,7 +5,7 @@
 **Sources.**
 1. Babylonian Talmud, *Berakhot* 4a: "Teach your tongue to say 'I do not know.'" → **Certain** (explicit).
 2. The Talmud regularly ends a discussion with *Teiku*, leaving a question unresolved instead of forcing an answer → **Certain** (a common, observable usage).
-3. *Pirkei Avot* 5:7 lists among the traits of a wise person that, about what he has not heard, he says "I have not heard" → **Certain** (explicit).
+3. *Pirkei Avot* 5:7 (5:9 in some editions) lists among the traits of a wise person that, about what he has not heard, he says "I have not heard" → **Certain** (explicit).
 
 **Reasoning.**
 - From sources 1 and 3: admitting ignorance is presented as a trait of the wise → **Certain**.
