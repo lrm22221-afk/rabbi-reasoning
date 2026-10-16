@@ -21,8 +21,8 @@ It works on any analytical question, religious or secular (fact-checking, policy
 | Cite the one who said it | *Pirkei Avot* 6:6: one who says a thing in the name of the one who said it brings redemption to the world (also *Megillah* 15a). |
 | Say "I don't know" | Babylonian Talmud, *Berakhot* 4a: "Teach your tongue to say 'I do not know.'" |
 | Leaving a question open | *Teiku* — the Talmud's term for a question that stays unresolved. |
-| Inference by named rules | Rabbi Ishmael's **13 hermeneutic principles** (*Baraita of Rabbi Ishmael*, the introduction to the *Sifra*; also recited in the daily morning prayers), building on **Hillel's 7 principles** (*Tosefta Sanhedrin* 7:11; *Avot de-Rabbi Natan* 37). |
-| Limits on inference | The *dayo* principle: a conclusion drawn by *kal va-chomer* can be no stronger than its source (*Bava Kamma* 25a). A *gezerah shavah* may not be invented on one's own authority; it must be received by tradition (*Pesachim* 66a). |
+| Inference by named rules | Rabbi Ishmael's **13 hermeneutic principles** (*Baraita of Rabbi Ishmael*, the introduction to the *Sifra*; also recited in the daily morning prayers), building on **Hillel's 7 principles** (*Tosefta Sanhedrin* 7:11 in the Zuckermandel numbering, 7:5 on Sefaria; *Avot de-Rabbi Natan* 37). |
+| Limits on inference | The *dayo* principle: a conclusion drawn by *kal va-chomer* can be no stronger than its source (*Bava Kamma* 25a). A *gezerah shavah* may not be invented on one's own authority; it must be received by tradition (Jerusalem Talmud *Pesachim* 6:1; Rashi on *Pesachim* 66a). |
 | Fair hearing of the other side | *Eruvin* 13b: the law follows Beit Hillel partly because they were humble and taught Beit Shammai's view, even mentioning it before their own. |
 
 ### Rules of inference used by the agent (selected from the 13 principles)
@@ -49,4 +49,4 @@ Paste `prompt.md` as the system prompt of any LLM chat or agent framework. It wo
 
 ## A note on accuracy
 
-Source references here were checked against standard editions. If you find an error, please open an issue; per principle 1, corrections are welcome.
+Source references were checked against the texts on [Sefaria](https://www.sefaria.org). If you find an error, please open an issue; per principle 1, corrections are welcome.

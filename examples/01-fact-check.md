@@ -5,7 +5,7 @@
 **Sources.**
 1. Functional brain imaging (fMRI, PET) studies, as summarized in standard neuroscience textbooks, show activity across virtually all brain regions over the course of a day.
 2. Clinical neurology: damage to almost any brain region causes some measurable deficit.
-3. Energy budget: the brain is about 2% of body mass but uses roughly 20% of the body's resting energy (standard physiology references).
+3. Energy budget: the brain is about 2% of body mass but uses roughly 20% of the body's oxygen and calories (Raichle & Gusnard, "Appraising the brain's energy budget," *PNAS* 99(16), 2002, https://doi.org/10.1073/pnas.172399499).
 
 **Reasoning.**
 - Imaging shows activity in all regions over time → source 1 → **Certain** (well-replicated).
